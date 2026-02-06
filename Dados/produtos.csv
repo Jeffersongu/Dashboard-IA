@@ -1,0 +1,21 @@
+id_produto,nome_produto,categoria_produto,linha_produto,foto_produto
+101,Mouse MX Master 3S,Acessórios,MX,http://xperiun.com/arquivos/ProdutosEletronicos/101.jpg
+102,Mouse MX Anywhere 3,Acessórios,MX,http://xperiun.com/arquivos/ProdutosEletronicos/102.jpg
+103,Teclado MX Keys,Acessórios,MX,http://xperiun.com/arquivos/ProdutosEletronicos/103.jpg
+104,Teclado MX Keys Mini,Acessórios,MX,http://xperiun.com/arquivos/ProdutosEletronicos/104.jpg
+105,Mouse Pebble M350,Acessórios,Pebble,http://xperiun.com/arquivos/ProdutosEletronicos/105.jpg
+106,Teclado K380,Acessórios,Multi-Device,http://xperiun.com/arquivos/ProdutosEletronicos/106.jpg
+107,Mouse Ergo Lift,Acessórios,Ergo,http://xperiun.com/arquivos/ProdutosEletronicos/107.jpg
+108,Combo MK270,Acessórios,Combo,http://xperiun.com/arquivos/ProdutosEletronicos/108.jpg
+109,Dock - All-in-one USB-C,Acessórios,Pro,http://xperiun.com/arquivos/ProdutosEletronicos/109.jpg
+201,Headset Zone Vibe 100,Áudio,Zone,http://xperiun.com/arquivos/ProdutosEletronicos/201.jpg
+202,Headset Zone Wireless,Áudio,Zone,http://xperiun.com/arquivos/ProdutosEletronicos/202.jpg
+203,Fone Zone True Wireless,Áudio,Zone,http://xperiun.com/arquivos/ProdutosEletronicos/203.jpg
+204,Headset Gamer G435,Áudio,G,http://xperiun.com/arquivos/ProdutosEletronicos/204.jpg
+301,Webcam Brio 500,Vídeo,Brio,http://xperiun.com/arquivos/ProdutosEletronicos/301.jpg
+302,Webcam Brio 4K,Vídeo,Brio,http://xperiun.com/arquivos/ProdutosEletronicos/302.jpg
+303,Webcam StreamCam,Vídeo,Stream,http://xperiun.com/arquivos/ProdutosEletronicos/303.jpg
+401,Tablet Tab Lite 10,Tablets,Lite,http://xperiun.com/arquivos/ProdutosEletronicos/401.jpg
+402,Tablet Tab Pro 11,Tablets,Pro,http://xperiun.com/arquivos/ProdutosEletronicos/402.jpg
+403,Tablet Tab Max 12,Tablets,Max,http://xperiun.com/arquivos/ProdutosEletronicos/403.jpg
+404,Tablet Tab Education 10,Tablets,Education,http://xperiun.com/arquivos/ProdutosEletronicos/404.jpg
