@@ -16,45 +16,6 @@
  - O único problema é que você tem pouco tempo de empresa e não podem acessar os dados reais.
 
 ---
-## 📦 Discovery
-
-- Perguntas de Investigação:
-  - Como funciona a operação da empresa?
-  - Como funciona hoje o processo de criação de relatórios e análise de dados?
-  - Quando precisa fazer fechamentos, quantas pessoas são envolvidas e quanto tempo leva?
-  - Quais são os desafios e problemas atuais no processo de geração de relatórios e análise de dados?
-
-- Perguntas de Implicação:
-  - O quanto esses problemas te incomodam diariamente?
-  - O que te impede hoje de resolver esses problemas?
-  - Quais seriam os benefícios para você com a nossa solução?
-  - Resolver esse problema é uma prioridade pra você?
-  - O que vai acontecer se você não resolver esse problema logo?
-
-- Perguntas Técnicas:
-  - Quais são os sistemas e a origem das fontes de dados?
-  - Quem controla o servidor de banco de dados e seus acessos?
-  - Quantos usuários irão acessar os relatórios?
-  - Qual área deve ser priorizada para o início do projeto?
-
-
-Entendimento de Negócio com o cliente (reunião de diagnóstico):
-- Você tem alguma amostra dos dados para disponibilizar? Não, pois a política de Compliance da empresa não permite e a equipe de Tecnologia leva entorno de um mês para disponibilizar a base!
-- Você pode disponibilizar pelo menos um print da informações do PDV, pois com isso podemos produzir um paínel com essas informações simuladas? Sim, consigo disponibilizar!
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/4a9124b6-55ec-4d64-9636-571747a142a1" width="800" alt="image">
-</p>
-
-- Qual o tipo de decisão você precisa tomar, que informações você precisa ter assim que chega na empresa? A principal informação que eu procuro é em relação a meta do mês!
-- Como você obtém essa informação? Peço para assistente acessar o PDV, exporte os arquivos csv, ela me envia pelo whatsapp. Assim, inicio as análises para verificar se batemos ou não a meta!
-- Essa rotina é realizada todos os dias? Não, pois essa análise leva uma ou duas horas para ser concretizada, e dependo do dia não é garatindo que seja feita!
-- Que outras perguntas ou informações você precisa reponder no seu dia a dia? Como estou na estrutura de Finanças e Vendas, preciso saber qual vendedor esta performando, qual produto está vendendo mais e qual categoria esta perfomando melhor. Por fim, se existe algum padrão, pois tem mês que vendemos muito um determinado produto e dois meses depois parece que ninguém sabe que vendemos ele, entender esses padrões ajudaria muito.
-- Você consegue responder essas perguntas de forma rápida? A primeira sim, saber se os vendedores estão performando e o KPI principais tenho uma planilha de controle pessoal, porém as outras duas perguntas tenho muito trabalho para conseguir chegar num caminho.
-- Isso impacta quanto no resultado? Por exemplo, o CEO estava me cobrando o porquê o tablet não estava saindo, no entanto até o dia 20 estavamos vendendo diversos outros produtos e o tablet não estava saindo e eu não consegui enxergar, quando ele me avisou no dia 20 não tive tempo hábil para fazer uma estratégia seja ligar para os clientes ou fazer uma promoção, como ele me falou tarde demais e pela rotina eu não consegui ver antes.
-
-
----
 ## 🎯 Objetivos do Projeto
 - Reduzir o tempo para consolidar os dados;
 - Ter a visão mais rápida possível para tomada de decisão no tempo certo;
@@ -70,7 +31,6 @@ Entendimento de Negócio com o cliente (reunião de diagnóstico):
 
 ---
 ## 🛠️ Tecnologias Utilizadas
--  Notion;
 -  ChatGPT;
 -  Lovable
 -  GitHub;
