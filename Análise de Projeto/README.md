@@ -62,9 +62,7 @@ O Modelo de Requisitos foi adotado para garantir alinhamento claro entre o probl
 
 
 ---
-## Definição das Tecnologias Adotadas
-🛠️ Tecnologias Utilizadas
-- Notion;
+## 🛠️ Definição das Tecnologias Adotadas
 - ChatGPT;
 - Lovable
 - GitHub;
@@ -84,4 +82,14 @@ O Modelo de Requisitos foi adotado para garantir alinhamento claro entre o probl
 ---
 ## 🗣️ Alinhamento com os Stakeholders
 
-[Preview:](https://techflowinsights.lovable.app)
+- Acesse a Visualização Preliminar: [TechFlow Insights](https://techflowinsights.lovable.app)
+
+<br/>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ae5fe674-8c55-4f02-9fd4-7f6d2c740ead" width="700" alt="image">
+</p>
+
+
+
+
