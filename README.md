@@ -17,7 +17,28 @@
 
 ---
 ## 📦 Discovery
-Entendimento de Negócio com o cliente (reunião):
+
+- Perguntas de Investigação:
+  - Como funciona a operação da empresa?
+  - Como funciona hoje o processo de criação de relatórios e análise de dados?
+  - Quando precisa fazer fechamentos, quantas pessoas são envolvidas e quanto tempo leva?
+  - Quais são os desafios e problemas atuais no processo de geração de relatórios e análise de dados?
+
+- Perguntas de Implicação:
+  - O quanto esses problemas te incomodam diariamente?
+  - O que te impede hoje de resolver esses problemas?
+  - Quais seriam os benefícios para você com a nossa solução?
+  - Resolver esse problema é uma prioridade pra você?
+  - O que vai acontecer se você não resolver esse problema logo?
+
+- Perguntas Técnicas:
+  - Quais são os sistemas e a origem das fontes de dados?
+  - Quem controla o servidor de banco de dados e seus acessos?
+  - Quantos usuários irão acessar os relatórios?
+  - Qual área deve ser priorizada para o início do projeto?
+
+
+Entendimento de Negócio com o cliente (reunião de diagnóstico):
 - Você tem alguma amostra dos dados para disponibilizar? Não, pois a política de Compliance da empresa não permite e a equipe de Tecnologia leva entorno de um mês para disponibilizar a base!
 - Você pode disponibilizar pelo menos um print da informações do PDV, pois com isso podemos produzir um paínel com essas informações simuladas? Sim, consigo disponibilizar!
 
@@ -62,7 +83,7 @@ A modelagem foi construída visando performance e clareza analítica, utilizando
 
 - Modelo estrela;
 - Tabelas fato e dimensões;
-- Relacionamentos otimizados para análise no Power BI
+- Relacionamentos otimizados para análise no Power BI.
 
 ---
 ## 📝 Modelo de Requisitos
@@ -86,7 +107,7 @@ O Modelo de Requisitos foi adotado para garantir alinhamento claro entre o probl
  ## 📍 Premissas da Análise
 Para a condução desta análise, foram estabelecidas algumas premissas com o objetivo de garantir consistência, confiabilidade e alinhamento com o contexto do negócio. 
 - Construir um dashboard de performance de vendas, com um paínel rápido com meta de faturamento, performance do time, melhores produtos com visuais interativos.
-- Prmeira versão com dados fictícios desenvolvidos por IA;
+- Primeira versão com dados fictícios desenvolvidos por IA;
 - Toda a estrutura será realizada por IA e Power BI;
 - Período de análise de 2025 a janeiro de 2026;
 - Proposta feita em três dias para apresentação e validação.
@@ -101,11 +122,12 @@ O pipeline do projeto segue as seguintes etapas:
 
 ---
  ## 💡 Estratégia da Solução
-A estratégia da solução foi estruturada com base em um Modelo de Requisitos, garantindo alinhamento entre o problema de negócio, os objetivos analíticos e as entregas finais do projeto.
+O método selecionado para implementar a solução baseia-se em um ciclo de vida estruturado em etapas sequenciais e controladas.
 
-A execução foi organizada em etapas sequenciais e controladas, permitindo rastreabilidade, qualidade e evolução contínua da solução de dados.
+**A Inteligência Artificial** será aplicada de forma integrada ao longo de todo o ciclo do projeto. Ela será utilizada para criar uma base de dados fictícia realista que permita a modelagem inicial e o alinhamento das expectativas. Em seguida, apoiará a análise exploratória, identificando padrões e propondo visualizações relevantes, o que viabilizará a construção ágil de um dashboard protótipo como prova de conceito visual. Por fim, a IA contribuirá na síntese e na apresentação final, destacando insights-chave e ajudando a estruturar uma narrativa clara e persuasiva para comunicar os resultados obtidos.
 
 O plano contempla as fases de Análise, para entendimento do contexto e definição de métricas; ETL, para ingestão e transformação dos dados; Modelagem, para estruturação analítica; Design, para construção das visualizações e consumo; e Governança de Dados, para assegurar padronização, versionamento e confiabilidade das informações.
+
 
  ### Etapa 1: Análise de Projeto
  Nesta etapa, o foco é compreender profundamente o negócio do cliente. Isso envolve pesquisas, entrevistas e análises de documentos. O objetivo é identificar os desafios e necessidades do cliente, criando uma base sólida para as tarefas subsequentes.
