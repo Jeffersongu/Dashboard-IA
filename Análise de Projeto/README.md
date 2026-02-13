@@ -53,8 +53,9 @@ Entendimento de Negócio com o cliente (reunião de diagnóstico):
 O Modelo de Requisitos foi adotado para garantir alinhamento claro entre o problema de negócio, os objetivos analíticos e as entregas finais do projeto.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/f384cbe7-20c4-454c-a949-4698d7688b99" width="800" alt="image">
+<img src="https://github.com/user-attachments/assets/77ca3232-9555-4f62-887e-5de5a5d80828" width="800" alt="image">
 </p>
+
 
 
 ---
