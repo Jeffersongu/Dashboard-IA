@@ -60,11 +60,20 @@ O Modelo de Requisitos foi adotado para garantir alinhamento claro entre o probl
 
 ---
 ## 🔍 Análise de Viabilidade
+Devido a restrições de compliance, não houve acesso à base de dados produtiva. Para viabilizar o projeto, foi criada uma base simulada com apoio de IA (ChatGPT), estruturada para representar cenários reais de negócio. A análise exploratória foi conduzida com suporte inicial de IA (Claude) e aprofundada tecnicamente em Python e Excel.
 
+
+Com base na análise inicial, o projeto é tecnicamente viável, pois:
+- A estrutura de dados construída atende aos requisitos analíticos do projeto;
+- Todos os KPIs definidos são teoricamente e tecnicamente calculáveis;
+- O projeto é analiticamente viável dentro do contexto de dados simulados.
+
+Observação: Os resultados devem ser interpretados como prova de conceito (POC), podendo requerer ajustes finos quando aplicados sobre dados reais de produção.
 
 ---
 ## 🛠️ Definição das Tecnologias Adotadas
 - ChatGPT;
+- Claude;
 - Lovable
 - GitHub;
 - Figma;
@@ -73,7 +82,9 @@ O Modelo de Requisitos foi adotado para garantir alinhamento claro entre o probl
 
 ---
 ## 📅 Definição do Cronograma do Projeto
- O cronograma do projeto será desenvolvido em cinco etapas: Análise, ETL, Modelagem, Designer e Governança dos Dados.
+ - O cronograma do projeto será desenvolvido em cinco etapas: Análise, ETL, Modelagem, Designer e Governança dos Dados;
+ - As etapas de projeto contém as tarefas que podem ser visualizadas na árvore hierárquica abaixo;
+ - E cada tarefa possui um conjunto de atividades com um cheklist.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9cccf3b5-b26e-42c2-889a-bb2ac1fd8964" width="700" alt="image">
