@@ -48,6 +48,8 @@ Entendimento de Negócio com o cliente (reunião de diagnóstico):
 - Isso impacta quanto no resultado? Por exemplo, o CEO estava me cobrando o porquê o tablet não estava saindo, no entanto até o dia 20 estavamos vendendo diversos outros produtos e o tablet não estava saindo e eu não consegui enxergar, quando ele me avisou no dia 20 não tive tempo hábil para fazer uma estratégia seja ligar para os clientes ou fazer uma promoção, como ele me falou tarde demais e pela rotina eu não consegui ver antes.
 
 
+Base Fictícia (ChatGPT): [Prompt-1](https://github.com/Jeffersongu/Dashboard-Comercial-IA/blob/main/An%C3%A1lise%20de%20Projeto/PROMPT%201%20-%20Base%20Fict%C3%ADcia%20-%20TechFlow%20Store.docx)
+
 ---
 ## 📝 Modelo de Requisitos
 O Modelo de Requisitos foi adotado para garantir alinhamento claro entre o problema de negócio, os objetivos analíticos e as entregas finais do projeto.
@@ -69,6 +71,10 @@ Com base na análise inicial, o projeto é tecnicamente viável, pois:
 - O projeto é analiticamente viável dentro do contexto de dados simulados.
 
 Observação: Os resultados devem ser interpretados como prova de conceito (POC), podendo requerer ajustes finos quando aplicados sobre dados reais de produção.
+
+Análise Descritiva (Claude): | Resumo Executivo:
+
+Análise Exploratória (Claude): | Resumo Executivo:
 
 ---
 ## 🛠️ Definição das Tecnologias Adotadas
@@ -94,7 +100,7 @@ Observação: Os resultados devem ser interpretados como prova de conceito (POC)
 ---
 ## 🗣️ Alinhamento com os Stakeholders
 
-- Acesse a Visualização Preliminar: [TechFlow Insights](https://techflowinsights.lovable.app)
+- Acesse a Visualização Preliminar (Lovable): [TechFlow Insights](https://techflowinsights.lovable.app)
 
 <br/>
 
